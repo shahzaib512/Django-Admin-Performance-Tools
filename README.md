@@ -1142,6 +1142,6 @@ If you are interested to fix an issue or to add new feature, you can just open a
   <img src = "https://github.com/shahzaib512/django-ecommerce-advanced/graphs/contributors"/>
 </a>
 <a href = "https://github.com/shahzaib512">
-  <img src = "https://avatars.githubusercontent.com/u/136946163?s=400&u=e2093f2d5179dd4ace0085f601005bf15a0e886e&v=4"/>
+  <img src = "https://github.com/shahzaib512/django-ecommerce-advanced/graphs/contributors"/>
 </a>
 
